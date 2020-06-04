@@ -4,4 +4,4 @@ date: 2020-06-03T22:19:36+02:00
 draft: true
 ---
 
-This is about.md
+Taekwondo klub Tempo Logatec
