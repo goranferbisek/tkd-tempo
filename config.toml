@@ -2,3 +2,23 @@ baseURL = "https://www.taekwondo-tempo.si"
 languageCode = "sl-SI"
 title = "Taekwondo klub Tempo Logatec"
 theme = "ananke"
+
+[menu]
+
+    [[menu.main]]
+        identifier ="domov"
+        name ="Domov"
+        url = "/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "urnik"
+        name = "Urnik"
+        url = "/urnik/"
+        weight = 20
+
+    [[menu.main]]
+        identifier = "klub"
+        name = "O klubu"
+        url = "/o-klubu/"
+        weight = 30
